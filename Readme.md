@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen-melouah&label=Profile%20views&color=0e75b6&style=flat" alt="aymen-melouah" /> </p>
 
-- 🌱 I’m currently learning **Tailwind, javascript**
+- 🌱 I’m currently learning **Tailwind, javascript, React**
 
-- 💬 Ask me about **Photoshop, Illustrator, Unity engine**
+- 💬 Ask me about **Photoshop, Illustrator, Figma, Unity engine**
 
 - 📫 How to reach me **aymenmlh.design@gmail.com**
 
