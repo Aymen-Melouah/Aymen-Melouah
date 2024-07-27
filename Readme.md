@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aymen Melouah</h1>
-<h3 align="center">A passionate Graphic Designer, frontend developer and Game developer from Algeria</h3>
+<h3 align="center">A passionate UI/UX Designer, Graphic Designer, frontend developer and Game developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen-melouah&label=Profile%20views&color=0e75b6&style=flat" alt="aymen-melouah" /> </p>
 
+- 🔭 I’m currently working as **Freelancer**
+  
 - 🌱 I’m currently learning **Tailwind, javascript, React**
 
 - 💬 Ask me about **Photoshop, Illustrator, Figma, Unity engine**
